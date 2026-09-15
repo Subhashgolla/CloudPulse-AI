@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pandas
+pyarrow
+scikit-learn
+joblib
+boto3
+python-dotenv
+pytest
+httpx
