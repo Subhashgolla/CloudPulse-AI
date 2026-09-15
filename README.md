@@ -35,7 +35,7 @@ Python · FastAPI · Pandas · PyArrow · scikit-learn · Boto3 · AWS Kinesis �
 ## Quick start
 
 ```bash
-git clone https://github.com/Subhash1025/cloudpulse-ai.git
+git clone https://github.com/Subhashgolla/cloudpulse-ai.git
 cd cloudpulse-ai
 python -m venv .venv
 # Windows: .\\.venv\\Scripts\\Activate.ps1
